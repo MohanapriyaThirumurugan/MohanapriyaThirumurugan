@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohanapriyaThirumurugan
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in Web development and python.
+- 🌱 I’m currently working in python and react
 - 📫 How to reach me ... mohanapriyathirumurugan17@gmail.com
 
 <!---
